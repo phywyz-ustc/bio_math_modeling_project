@@ -8,9 +8,9 @@ lv_model_best:复现代码
 
 modular_networks:模块化网络
 
-a_mean_only:仅修改<a>
+a_mean_only:仅修改均值强度
 
-a_mean_only_modi:仅修改<a>，使用非线性激活函数
+a_mean_only_modi:仅修改均值强度，使用非线性激活函数
 
 analysis:仅修改<a>的复现代码分析
 
